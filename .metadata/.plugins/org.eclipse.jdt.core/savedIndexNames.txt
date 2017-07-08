@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+E:\rk2project\.metadata\.plugins\org.eclipse.jdt.core
